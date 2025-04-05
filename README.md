@@ -62,7 +62,7 @@ A smart greenhouse system using a PLC to control and monitor environmental condi
   - Human-machine interface (HMI) integration (optional)
 - **Skills**: Industrial automation, PLC programming, control systems design, process logic
 
-🔗 [View Project Folder](./plc-greenhouse)
+🔗 [View Project Folder](https://github.com/Angel-carmona123/AUTOMATIC_PLANT.git)
 
 ---
 
