@@ -45,7 +45,7 @@ A portable retro-style arcade platform programmed in C, running on the MSP430 mi
   - Simple UI with state-based navigation
 - **Skills**: Embedded C, low-level hardware interfacing, memory optimization, real-time programming
 
-🔗 [View Project Folder](./msp430-arcade)
+🔗 [View Project Folder](https://github.com/Angel-carmona123/ARCADE.git)
 
 ---
 
