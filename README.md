@@ -28,7 +28,7 @@ A hardware-based version of the classic Pac-Man game built entirely with VHDL. I
   - Collision detection and game reset states
 - **Skills**: Digital logic design, synchronous systems, FSMs, timing analysis
 
-🔗 [View Project Folder](./comecocos-vhdl)
+🔗 [[View Project Folder](https://github.com/Angel-carmona123/PAC-MAN.VHDL.git)]
 
 ---
 
